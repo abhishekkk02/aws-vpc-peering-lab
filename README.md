@@ -84,6 +84,8 @@ This project implements and validates a secure, multi-VPC network architecture o
 
 | \*\*Test 03\*\* | App-B -> App-A | 0% Packet Loss (Bidirectional) | 0% packet loss (\~0.20 ms) | \*\*PASS\*\* |
 
+![Pre-Peering Baseline Failure](docs/screenshots/01-pre-peering-failure.png)
+
 
 
 \### Troubleshooting Case: Security Group Ingress Policy
