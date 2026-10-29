@@ -87,6 +87,10 @@ This project implements and validates a secure, multi-VPC network architecture o
 ![Pre-Peering Baseline Failure](docs/screenshots/01-pre-peering-failure.png)
 
 
+### Verification: Successful Inter-VPC Connectivity (App-A to App-B)
+![Post-Peering ICMP Ping Success](docs/screenshots/02-ping-success.png)
+
+
 
 \### Troubleshooting Case: Security Group Ingress Policy
 
